@@ -1,6 +1,8 @@
 print('первый')
 print("второй")
 print('третий')
+print('student: первый')
+print('student: второй')
 print('schoolboy: первый коммит')
 print('schoolboy: второй коммит')
 print('baby: первый коммит')
